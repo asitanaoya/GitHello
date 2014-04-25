@@ -7,3 +7,4 @@ function GitHello(name) {
     return name + ' GigHello!';
 }
 console.log(GitHello('naoya'));
+console.log(('GitHello').length);
