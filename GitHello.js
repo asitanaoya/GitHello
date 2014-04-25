@@ -3,8 +3,9 @@
 //  return 'GitHello!!';
 //}
 //console.log(GitHello());
-function GitHello(name) {
-    return name + ' GigHello!';
-}
-console.log(GitHello('naoya'));
-console.log(('GitHello').length);
+//function GitHello(name) {
+//    return name + ' GigHello!';
+//}
+//console.log(GitHello('naoya'));
+//console.log(('GitHello').length);
+console.log('GitHello'.toLowerCase());
